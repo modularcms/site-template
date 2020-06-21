@@ -1,4 +1,4 @@
-# site-template
+# modularcms site template
 This is the entrypoint for your website. If you're not familiar with modularcms check this out first: https://modularcms.io
 
 ## How to install?
