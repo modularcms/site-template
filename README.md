@@ -8,4 +8,4 @@ This is the entrypoint for your website. If you're not familiar with modularcms 
 1. Make sure that the .htaccess file is uploaded and your server has the feature ModRewrite enabled
 1. Have fun with your new component based website
 
-If your using plesk the installation process is even easier. Enable the usage of git on the creation of your domain and enter the url of this repository (`https://github.com/modularcms/site-template.git`)
+If your using plesk the installation process is even easier. Just enable the usage of git on the creation of your domain and enter the url of this repository (`https://github.com/modularcms/site-template.git`).
